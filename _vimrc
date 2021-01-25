@@ -15,6 +15,7 @@ set smartindent
 
 " Search options
 set hlsearch
+set ignorecase
 set smartcase
 
 " Remapings
@@ -28,3 +29,7 @@ noremap <Down> <nop>
 call plug#begin('$HOME/vimfiles/plugged')
 
 Plug 'pprovost/vim-ps1'
+Plug 'google/vim-jsonnet'
+Plug 'tpope/vim-abolish'
+
+call plug#end()
