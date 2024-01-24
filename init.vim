@@ -1,3 +1,10 @@
+" Plugin manager
+call plug#begin('~/.local/share/nvim/plugged')
+
+Plug 'tpope/vim-abolish'
+
+call plug#end()
+
 " Editor options
 set number relativenumber
 set expandtab
@@ -8,6 +15,7 @@ syntax enable
 set laststatus=2
 set ruler
 set title
+set background=dark
 colorscheme desert
 set history=1000
 set autoindent
@@ -32,10 +40,3 @@ noremap <Left> <nop>
 noremap <Right> <nop>
 noremap <Up> <nop>
 noremap <Down> <nop>
-
-" Plugin manager
-call plug#begin('~/.local/share/nvim/plugged')
-
-Plug 'tpope/vim-abolish'
-
-call plug#end()
