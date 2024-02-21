@@ -3,6 +3,7 @@ node
 go
 golangci-lint
 neovim
+tree
 
 # Casks
 calibre
