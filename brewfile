@@ -4,6 +4,7 @@ go
 golangci-lint
 neovim
 tree
+stow
 
 # Casks
 calibre
