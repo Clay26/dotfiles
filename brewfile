@@ -8,6 +8,9 @@ stow
 tmux
 tpm
 font-hack-nerd-font
+docker
+docker-compose
+colima
 
 # Casks
 calibre
