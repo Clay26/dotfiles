@@ -5,6 +5,7 @@ golangci-lint
 neovim
 tree
 stow
+tmux
 
 # Casks
 calibre
