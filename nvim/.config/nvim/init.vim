@@ -3,6 +3,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 
 Plug 'tpope/vim-abolish'
 Plug 'christoomey/vim-tmux-navigator'
+Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 
 call plug#end()
 
@@ -18,6 +19,7 @@ set ruler
 set title
 set background=dark
 colorscheme desert
+" colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
 set history=1000
 set autoindent
 set smartindent
