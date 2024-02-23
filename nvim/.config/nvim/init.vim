@@ -2,6 +2,7 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
 Plug 'tpope/vim-abolish'
+Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
 
