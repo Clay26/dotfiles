@@ -6,6 +6,7 @@ neovim
 tree
 stow
 tmux
+tpm
 
 # Casks
 calibre
