@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Custom sections
+alias vim=nvim
 alias gs='git status'
 alias dots='cd ~/git/dotfiles'
 export TERM='xterm-256color'
