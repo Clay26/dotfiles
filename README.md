@@ -25,6 +25,13 @@ directory.
 stow -t ~ zsh
 ```
 
+The tmux config can be applied using the below command from the repo's root
+directory.
+
+```
+stow -t ~ tmux
+```
+
 The stow can be confirmed using the below command from the ~/ directory:
 
 ```
