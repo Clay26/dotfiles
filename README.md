@@ -54,3 +54,7 @@ Symlinks can be removed using this command:
 ```
 stow -D -t ~ <folder>
 ```
+
+# Links
+- [tmux inspiration](https://www.youtube.com/watch?v=DzNmUNvnB04)
+- [stow inspiration](https://www.youtube.com/watch?v=y6XCebnB9gs)
