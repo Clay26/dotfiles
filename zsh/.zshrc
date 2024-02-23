@@ -103,3 +103,7 @@ source $ZSH/oh-my-zsh.sh
 # Custom sections
 alias gs='git status'
 alias dots='cd ~/git/dotfiles'
+export HOMEBREW_GITHUB_API_TOKEN=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
+export TERM='xterm-256color'
+export COLORTERM="truecolor"
+set termguicolors

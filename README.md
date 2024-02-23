@@ -7,6 +7,17 @@ zsh; window's gvim; etc.
 Currently, this `brewfile` does nothing automatic. It just serves as a place to
 log installs.
 
+## Install Nerd Fonts
+Follow this
+[guide](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#option-2-homebrew-fonts).
+
+```
+brew tap homebrew/cask-fonts
+brew install font-hack-nerd-font
+```
+After installing, restart Terminal.app. Update the Terminal.app preferences to
+use the hack nerd font mono.
+
 ## Stow files
 The neomvim and zsh configs are maintained through GNU stow. Once stow is
 installed through homebrew and oh my zsh is installed manually (see
