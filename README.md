@@ -58,3 +58,4 @@ stow -D -t ~ <folder>
 # Links
 - [tmux inspiration](https://www.youtube.com/watch?v=DzNmUNvnB04)
 - [stow inspiration](https://www.youtube.com/watch?v=y6XCebnB9gs)
+- [asdf inspiration](https://gorails.com/setup/macos/14-sonoma)

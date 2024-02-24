@@ -107,3 +107,4 @@ alias dots='cd ~/git/dotfiles'
 export TERM='xterm-256color'
 export COLORTERM="truecolor"
 set termguicolors
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
