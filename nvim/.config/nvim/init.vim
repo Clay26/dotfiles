@@ -17,9 +17,8 @@ syntax enable
 set laststatus=2
 set ruler
 set title
-set background=dark
-colorscheme desert
-" colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
+" colorscheme desert
+colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
 set history=1000
 set autoindent
 set smartindent
