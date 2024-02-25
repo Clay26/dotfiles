@@ -4,6 +4,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'tpope/vim-abolish'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
+Plug 'folke/tokyonight.nvim'
 
 call plug#end()
 
@@ -18,7 +19,8 @@ set laststatus=2
 set ruler
 set title
 " colorscheme desert
-colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
+" colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
+colorscheme tokyonight
 set history=1000
 set autoindent
 set smartindent
