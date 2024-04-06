@@ -49,6 +49,9 @@ The stow can be confirmed using the below command from the ~/ directory:
 tree -a -l
 ```
 
+Whenever a subfolder is added, the symlinks will be need to be removed and then
+re-added.
+
 Symlinks can be removed using this command:
 
 ```
