@@ -1,5 +1,3 @@
-require("clay");
-
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 print("Checking for lazy.nvim at " .. lazypath)
 if not vim.loop.fs_stat(lazypath) then
@@ -40,4 +38,6 @@ require("lazy").setup({
     opts = {},
   },
 })
+
+require("clay")
 
