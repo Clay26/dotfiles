@@ -1,3 +1,5 @@
+require("clay")
+
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 print("Checking for lazy.nvim at " .. lazypath)
 if not vim.loop.fs_stat(lazypath) then
@@ -33,11 +35,13 @@ require("lazy").setup({
   {"tpope/vim-abolish"},
   {
     "folke/tokyonight.nvim",
-    lazy = false,
-    priority = 1000,
-    opts = {},
+    event = "BufRead",
   },
+  {"nvim-treesitter/nvim-treesitter", build = ":TSUpdate"},
+  {
+    'nvim-telescope/telescope.nvim', tag = '0.1.6',
+    dependencies = { 'nvim-lua/plenary.nvim' }
+  }
 })
 
-require("clay")
-
+vim.cmd [[colorscheme tokyonight]]

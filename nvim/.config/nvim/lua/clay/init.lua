@@ -1,5 +1,6 @@
 require("clay.remap")
 
+
 -- Editor options
 vim.o.number = true
 vim.o.relativenumber = true
@@ -11,7 +12,6 @@ vim.cmd [[syntax enable]]
 vim.o.laststatus = 2
 vim.o.ruler = true
 vim.o.title = true
-vim.cmd [[colorscheme tokyonight]]
 vim.o.history = 1000
 vim.o.autoindent = true
 vim.o.smartindent = true
