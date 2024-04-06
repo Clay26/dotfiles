@@ -48,6 +48,7 @@ require("lazy").setup({
     dependencies = { "nvim-lua/plenary.nvim" }
   },
   {"mbbill/undotree"},
+  {"tpope/vim-fugitive"},
 })
 
 vim.cmd [[colorscheme tokyonight]]
