@@ -11,7 +11,7 @@ if (Test-Path($ChocolateyProfile)) {
 #oh-my-posh init powershell --config 'C:/Users/cljackso/Posh/cljackso.omp.json' | Invoke-Expression
 
 # Define functions for the commands
-function Open-Vim { nvim }
+function Open-Vim { nvim @args }
 function Show-GitStatus { git status }
 function GoTo-Dots { Set-Location -Path $DOTS_DIR }
 
