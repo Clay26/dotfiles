@@ -13,9 +13,13 @@ vim.o.smartindent = true
 
 vim.o.wrap = true
 
+
+local home = os.getenv("HOME") or os.getenv("USERPROFILE") -- Works for both Unix-like systems and Windows
+local pathSeparator = package.config:sub(1,1) -- Gets the path separator from Lua's package config, which is '/' on Unix-like and '\' on Windows
+local undodir = home .. pathSeparator .. ".vim" .. pathSeparator .. "undodir"
 vim.o.swapfile = false
 vim.o.backup = false
-vim.o.undodir = os.getenv("HOME") .. "/.vim/undodir"
+vim.o.undodir = undodir
 vim.o.undofile = true
 
 vim.cmd [[syntax enable]]
