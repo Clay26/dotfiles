@@ -1,6 +1,7 @@
 # Variables
 $DOTS_DIR = "$HOME\Projects\dotfiles"
 $CONFIG = "$DOTS_DIR\powershell\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+$VIM_CONFIG = "$DOTS_DIR\nvim\.config\nvim\"
 
 # Chocolatey profile
 $ChocolateyProfile = "$env:ChocolateyInstall\helpers\chocolateyProfile.psm1"
@@ -45,4 +46,28 @@ function Copy-ProfileToLocation {
     } catch {
         Write-Host "An error occurred: $_"
     }
+}
+
+function Copy-NeoVimProfileToLocation {
+	$SourcePath = $VIM_CONFIG
+	$DestinationPath = "$HOME\AppData\Local\"
+
+  try {
+
+# Check if the source file exists
+    if (Test-Path $SourcePath) {
+# Copy the profile to the $DestinationPath location
+      Copy-Item -Path $SourcePath -Destination $DestinationPath -Force -Recurse
+        Write-Host "NeoVim copied successfully to $DestinationPath"
+    } else {
+      Write-Host "The source vim profile path does not exist."
+    }
+  } catch {
+    Write-Host "An error occurred: $_"
+  }
+}
+
+function Stow {
+	Copy-ProfileToLocation
+	Copy-NeoVimProfileToLocation
 }
