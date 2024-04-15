@@ -71,3 +71,8 @@ function Stow {
 	Copy-ProfileToLocation
 	Copy-NeoVimProfileToLocation
 }
+
+function Export-WingetList {
+  $ExportFile = "$DOTS_DIR\winget_file"
+  winget list --source winget | Out-File -FilePath $ExportFile
+}
