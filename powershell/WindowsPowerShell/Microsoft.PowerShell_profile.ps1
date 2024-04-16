@@ -77,6 +77,11 @@ function Export-WingetList {
   winget list --source winget | Out-File -FilePath $ExportFile
 }
 
+function Get-Path {
+    $path = [Environment]::GetEnvironmentVariable("Path", [EnvironmentVariableTarget]::User)
+    return $path
+}
+
 function Ensure-ClangInPath {
     # Check if 'clang.exe' is in the PATH
     $clangInPath = $false
