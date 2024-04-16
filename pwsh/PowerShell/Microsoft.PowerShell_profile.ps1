@@ -113,3 +113,20 @@ function Ensure-ClangInPath {
       Write-Host "clang is already in the PATH."
     }
 }
+
+function Format-GitCheckoutCommand {
+# Get the status from git
+  $gitStatus = git status --porcelain
+
+# Filter out only the unstaged files
+    $unstagedFiles = $gitStatus | Where-Object { $_ -match '^\?\? |^UU |^AA ' } | ForEach-Object {
+# Extract the file path
+      ($_.Trim() -split '\s+', 2)[1]
+    }
+
+# Format the git checkout command
+  $gitCommand = "git checkout origin/release " + ($unstagedFiles -join ' ')
+
+# Output the formatted command
+    Write-Output $gitCommand
+}
