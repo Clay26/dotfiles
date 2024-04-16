@@ -9,7 +9,7 @@ if (Test-Path($ChocolateyProfile)) {
   Import-Module "$ChocolateyProfile"
 }
 
-#oh-my-posh init powershell --config 'C:/Users/cljackso/Posh/cljackso.omp.json' | Invoke-Expression
+oh-my-posh init powershell | Invoke-Expression
 
 # Define functions for the commands
 function Open-Vim { nvim @args }
