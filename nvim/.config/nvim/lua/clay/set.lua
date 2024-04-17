@@ -23,7 +23,7 @@ vim.o.laststatus = 2
 vim.o.ruler = true
 vim.o.title = true
 vim.o.history = 1000
-vim.o.textwidth = 80
+vim.o.textwidth = 0
 vim.o.colorcolumn = "+1"
 
 -- Open new split panes to right and bottom, which feels more natural

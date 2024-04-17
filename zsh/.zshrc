@@ -108,3 +108,5 @@ export TERM='xterm-256color'
 export COLORTERM="truecolor"
 set termguicolors
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
+
+export PATH="$HOME/Library/Python/3.9/bin:$PATH"
