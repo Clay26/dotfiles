@@ -134,3 +134,7 @@ function Format-GitCheckoutCommand {
     # Output the formatted command
     Write-Output $gitCommand
 }
+
+function Get-WeekNum {
+  Write-Output ([cultureinfo]::InvariantCulture.Calendar.GetWeekOfYear((Get-Date), [System.Globalization.CalendarWeekRule]::FirstDay, [System.DayOfWeek]::Sunday))
+}
