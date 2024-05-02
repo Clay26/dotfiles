@@ -12,6 +12,8 @@ docker
 docker-compose
 colima
 asdf
+ripgrep
+fd
 
 # Casks
 calibre

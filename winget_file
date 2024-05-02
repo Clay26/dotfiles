@@ -1,241 +1,157 @@
 
    - 
-                                                                                                                        
-
-   - 
    \ 
                                                                                                                         
-Name                                        Id                                             Version           Available
+Name                                       Id                                          Version             Available
 -----------------------------------------------------------------------------------------------------------------------
-Todoist 1.0.3                               Doist.Todoist                                  1.0.3             9.1.4
-1Password                                   AgileBits.1Password                            8.10.28           
-HEIC Viewer +                               45907smallapp.HEICViewer_z9hw59krvrfng         1.0.3.0           
-Visual Studio Build Tools 2017              50780fa0                                       15.9.56           
-Shenzhen I/O                                58020AllianceMetaversalSt.ShenzhenIO_j78hpz8eΓÇª 1.0.1.0           
-7-Zip 23.01 (x64)                           7zip.7zip                                      23.01             
-Visual Studio Build Tools 2019              Microsoft.VisualStudio.2019.BuildTools         16.11.29          16.11.35
-AMD Ryzen Master                            AMD Ryzen Master                               2.8.0.1937        
-MSI Afterburner 4.6.4                       Guru3D.Afterburner                             4.6.4             4.6.5
-iTunes                                      AppleInc.iTunes_nzyj5cx40ttqa                  12131.3.2010.0    
-Audacity 3.1.2                              Audacity.Audacity                              3.1.2             3.4.2
-Backblaze                                   Backblaze                                      Unknown           
-Battle.net                                  Battle.net                                     Unknown           
-Call of Duty                                Call of Duty                                   Unknown           
-Ubuntu                                      Canonical.Ubuntu.2204                          2204.3.49.0       
-Microsoft Clipchamp                         Clipchamp.Clipchamp_yxz26nhyzhsrt              3.0.10220.0       
-Discord                                     Discord.Discord                                1.0.9003          1.0.9035
-Docker Desktop                              Docker.DockerDesktop                           4.21.1            4.29.0
-Firefox Developer Edition (x64 en-US)       Mozilla.Firefox.DeveloperEdition               125.0             
-Git                                         Git.Git                                        2.39.1            2.44.0
-Among Us                                    Innersloth.AmongUs_fw5x688tam7rm               2024.3.53.0       
-LLVM                                        LLVM.LLVM                                      18.1.3            
-Logi Bolt                                   Logitech.LogiBolt                              1.01.415.0        1.2.6024.0
-Logitech Options                            Logitech.Options                               9.40.86           10.20.11
-Microsoft Azure Compute Emulator - v2.9.7   Microsoft Azure Compute Emulator - v2.9.7      2.9.8999.43       
-Microsoft Edge                              Microsoft.Edge                                 123.0.2420.97     
-Microsoft Edge Update                       Microsoft Edge Update                          1.3.185.29        
-Microsoft Edge WebView2 Runtime             Microsoft.EdgeWebView2Runtime                  123.0.2420.97     
-Cortana                                     Microsoft.549981C3F5F10_8wekyb3d8bbwe          4.2308.1005.0     
-AV1 Video Extension                         Microsoft.AV1VideoExtension_8wekyb3d8bbwe      1.1.61781.0       
-News                                        Microsoft.BingNews_8wekyb3d8bbwe               4.55.62231.0      
-MSN Weather                                 Microsoft.BingWeather_8wekyb3d8bbwe            4.53.60911.0      
-App Installer                               Microsoft.AppInstaller                         1.22.10861.0      
-DirectX                                     Microsoft.DirectXRuntime_8wekyb3d8bbwe         9.29.1974.0       
-Xbox                                        Microsoft.GamingApp_8wekyb3d8bbwe              2404.1001.21.0    
-Gaming Services                             Microsoft.GamingServices_8wekyb3d8bbwe         20.88.6001.0      
-Get Help                                    Microsoft.GetHelp_8wekyb3d8bbwe                10.2308.12552.0   
-Microsoft Tips                              Microsoft.Getstarted_8wekyb3d8bbwe             1.3.42522.0       
-HEIF Image Extensions                       Microsoft.HEIFImageExtension_8wekyb3d8bbwe     1.0.63001.0       
-Paint 3D                                    Microsoft.MSPaint_8wekyb3d8bbwe                1.0.74.0          
-3D Viewer                                   Microsoft.Microsoft3DViewer_8wekyb3d8bbwe      1.0.116.0         
-Microsoft Edge                              Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe   123.0.2420.81     
-Microsoft 365 (Office)                      Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe     18.2311.1071.0    
-Solitaire & Casual Games                    Microsoft.MicrosoftSolitaireCollection_8wekybΓÇª 4.19.3279.0       
-Microsoft Sticky Notes                      Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe   4.0.6002.0        
-Mixed Reality Portal                        Microsoft.MixedReality.Portal_8wekyb3d8bbwe    2000.22041.1123.0 
-Microsoft .Net Native Framework Package 1.7 Microsoft.NET.Native.Framework.1.7_8wekyb3d8bΓÇª 1.7.27413.0       
-Microsoft .Net Native Framework Package 2.2 Microsoft.NET.Native.Framework.2.2_8wekyb3d8bΓÇª 2.2.29512.0       
-Microsoft .Net Native Runtime Package 1.7   Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe 1.7.27422.0       
-Microsoft .Net Native Runtime Package 2.2   Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe 2.2.28604.0       
-OneNote for Windows 10                      Microsoft.Office.OneNote_8wekyb3d8bbwe         16001.14326.2182ΓÇª 
-OneDrive                                    Microsoft.OneDriveSync_8wekyb3d8bbwe           24055.317.2.0     
-Outlook for Windows                         Microsoft.OutlookForWindows_8wekyb3d8bbwe      1.2024.403.300    
-Paint                                       Microsoft.Paint_8wekyb3d8bbwe                  11.2402.32.0      
-Microsoft People                            Microsoft.People_8wekyb3d8bbwe                 10.2202.100.0     
-Power Automate                              Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe   1.0.1110.0        
-PowerToys ImageResizer Context Menu         Microsoft.PowerToys.ImageResizerContextMenu_8ΓÇª 0.65.0.0          
-PowerToys PowerRename Context Menu          Microsoft.PowerToys.PowerRenameContextMenu_8wΓÇª 0.65.0.0          
-Raw Image Extension                         Microsoft.RawImageExtension_8wekyb3d8bbwe      2.3.611.0         
-Snipping Tool                               Microsoft.ScreenSketch_8wekyb3d8bbwe           11.2401.37.0      
-Windows Security                            Microsoft.SecHealthUI_8wekyb3d8bbwe            1000.25992.9000.0 
-Microsoft Engagement Framework              Microsoft.Services.Store.Engagement_8wekyb3d8ΓÇª 10.0.23012.0      
-Skype                                       Microsoft.SkypeApp_kzf8qxf38zg5c               15.116.3213.0     
-Store Experience Host                       Microsoft.StorePurchaseApp_8wekyb3d8bbwe       22312.1401.4.0    
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2023.44_8ΓÇª 2023.44.1.3       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2023.45_8ΓÇª 2023.45.1.16      
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2023.48_8ΓÇª 2023.48.1.4       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2023.49_8ΓÇª 2023.49.1.2       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2023.50_8ΓÇª 2023.50.1.8       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.10_8ΓÇª 2024.10.1.12      
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.13_8ΓÇª 2024.13.1.10      
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.14_8ΓÇª 2024.14.1.8       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.2_8wΓÇª 2024.2.1.7        
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.3_8wΓÇª 2024.3.1.2        
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.4_8wΓÇª 2024.4.1.9        
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.5_8wΓÇª 2024.5.1.11       
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.7_8wΓÇª 2024.7.1.4        
-Microsoft Teams SlimCoreVdi                 Microsoft.Teams.SlimCoreVdi.win-x64.2024.9_8wΓÇª 2024.9.1.6        
-Microsoft To Do                             Microsoft.Todos_8wekyb3d8bbwe                  2.114.7122.0      
-Microsoft.UI.Xaml.2.0                       Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe            2.1810.18004.0    
-Microsoft.UI.Xaml.2.1                       Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe            2.11906.6001.0    
-Microsoft.UI.Xaml.2.3                       Microsoft.UI.Xaml.2.3_8wekyb3d8bbwe            2.32002.13001.0   
-Microsoft.UI.Xaml.2.4                       Microsoft.UI.Xaml.2.4_8wekyb3d8bbwe            2.42007.9001.0    
-Microsoft.UI.Xaml.2.6                       Microsoft.UI.Xaml.2.6_8wekyb3d8bbwe            2.62112.3002.0    
-Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                          7.2208.15002.0    
-Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                          8.2310.30001.0    
-Microsoft Visual C++ 2012 UWP Desktop RuntΓÇª Microsoft.VCLibs.110.00.UWPDesktop_8wekyb3d8bΓÇª 11.0.61135.0      
-Microsoft Visual C++ 2013 UWP Desktop RuntΓÇª Microsoft.VCLibs.120.00.UWPDesktop_8wekyb3d8bΓÇª 12.0.40653.0      
-Microsoft Visual C++ 2015 UWP Desktop RuntΓÇª Microsoft.VCLibs.Desktop.14                    14.0.33519.0      
-Microsoft Visual C++ 2015 UWP Runtime PackΓÇª Microsoft.VCLibs.140.00_8wekyb3d8bbwe          14.0.33519.0      
-VP9 Video Extensions                        Microsoft.VP9VideoExtensions_8wekyb3d8bbwe     1.1.451.0         
-Web Media Extensions                        Microsoft.WebMediaExtensions_8wekyb3d8bbwe     1.1.663.0         
-Webp Image Extensions                       Microsoft.WebpImageExtension_8wekyb3d8bbwe     1.0.62681.0       
-Windows App Runtime DDLM 3.469.1654.0-x6    Microsoft.WinAppRuntime.DDLM.3.469.1654.0-x6_ΓÇª 3.469.1654.0      
-Windows App Runtime DDLM 3.469.1654.0-x8    Microsoft.WinAppRuntime.DDLM.3.469.1654.0-x8_ΓÇª 3.469.1654.0      
-Microsoft Copilot                           Microsoft.Windows.Ai.Copilot.Provider_8wekyb3ΓÇª 1.0.3.0           
-Dev Home                                    Microsoft.DevHome                              0.1200.442.0      0.1201.44ΓÇª
-Microsoft Photos                            Microsoft.Windows.Photos_8wekyb3d8bbwe         2024.11030.15001ΓÇª 
-Windows Clock                               Microsoft.WindowsAlarms_8wekyb3d8bbwe          11.2403.8.0       
-WindowsAppRuntime.1.0                       Microsoft.WindowsAppRuntime.1.0_8wekyb3d8bbwe  4.528.1755.0      
-WindowsAppRuntime.1.2                       Microsoft.WindowsAppRuntime.1.2_8wekyb3d8bbwe  2000.802.31.0     
-WindowsAppRuntime.1.3                       Microsoft.WindowsAppRuntime.1.3_8wekyb3d8bbwe  3000.934.1904.0   
-WindowsAppRuntime.1.4                       Microsoft.WindowsAppRuntime.1.4_8wekyb3d8bbwe  4000.1136.2333.0  
-WindowsAppRuntime.1.5                       Microsoft.WindowsAppRuntime.1.5_8wekyb3d8bbwe  5001.70.1338.0    
-WindowsAppRuntime.Singleton                 Microsoft.WindowsAppRuntime.Singleton_8wekyb3ΓÇª 3.469.1654.0      
-Windows Calculator                          Microsoft.WindowsCalculator_8wekyb3d8bbwe      11.2401.0.0       
-Windows Camera                              Microsoft.WindowsCamera_8wekyb3d8bbwe          2024.2402.5.0     
-Feedback Hub                                Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe     1.2401.20253.0    
-Windows Maps                                Microsoft.WindowsMaps_8wekyb3d8bbwe            1.0.60.0          
-Windows Notepad                             Microsoft.WindowsNotepad_8wekyb3d8bbwe         11.2401.26.0      
-Windows Sound Recorder                      Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe   1.0.76.0          
-Microsoft Store                             Microsoft.WindowsStore_8wekyb3d8bbwe           22402.1401.4.0    
-Windows Terminal                            Microsoft.WindowsTerminal                      1.19.10821.0      
-Windows Package Manager Source (winget)     Microsoft.Winget.Source_8wekyb3d8bbwe          2024.415.800.747  
-Xbox TCUI                                   Microsoft.Xbox.TCUI_8wekyb3d8bbwe              1.24.10001.0      
-Xbox Console Companion                      Microsoft.XboxApp_8wekyb3d8bbwe                48.104.4001.0     
-Xbox Game Bar Plugin                        Microsoft.XboxGameOverlay_8wekyb3d8bbwe        1.54.4001.0       
-Game Bar                                    Microsoft.XboxGamingOverlay_8wekyb3d8bbwe      7.124.3191.0      
-Xbox Identity Provider                      Microsoft.XboxIdentityProvider_8wekyb3d8bbwe   12.95.3001.0      
-XboxInsiderHub                              Microsoft.XboxInsider_8wekyb3d8bbwe            1.2403.8002.0     
-Xbox Game Speech Window                     Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbΓÇª 1.21.13002.0      
-Phone Link                                  Microsoft.YourPhone_8wekyb3d8bbwe              1.24022.87.0      
-Windows Media Player                        Microsoft.ZuneMusic_8wekyb3d8bbwe              11.2402.6.0       
-Movies & TV                                 Microsoft.ZuneVideo_8wekyb3d8bbwe              10.23051.10041.0  
-Quick Assist                                MicrosoftCorporationII.QuickAssist_8wekyb3d8bΓÇª 2.0.30.0          
-WindowsAppRuntime.Main.1.0                  MicrosoftCorporationII.WindowsAppRuntime.MainΓÇª 4.528.1755.0      
-Windows Subsystem for Linux                 MicrosoftCorporationII.WindowsSubsystemForLinΓÇª 2.1.5.0           
-Windows Web Experience Pack                 MicrosoftWindows.Client.WebExperience_cw5n1h2ΓÇª 424.1301.450.0    
-Cross Device Experience Host                MicrosoftWindows.CrossDevice_cw5n1h2txyewy     1.24031.69.0      
-Mozilla Maintenance Service                 MozillaMaintenanceService                      116.0             
-MultiViewer for F1                          MultiViewerForF1                               1.31.7            
-NVIDIA Control Panel                        NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj    8.1.965.0         
-Npcap                                       NpcapInst                                      1.71              
-Oh My Posh version 19.19.0                  JanDeDobbeleer.OhMyPosh                        19.19.0           19.20.0
-Microsoft OneDrive                          Microsoft.OneDrive                             24.055.0317.0002  
-Postman x86_64 10.16.0                      Postman.Postman                                10.16.0           10.24.16
-RivaTuner Statistics Server 7.3.2 Beta 5    RTSS                                           7.3.2 Beta 5      
-Realtek Audio Control                       RealtekSemiconductorCorp.RealtekAudioControl_ΓÇª 1.51.324.0        
-Rockstar Games Launcher                     Rockstar Games Launcher                        1.0.73.1520       
-Rockstar Games Social Club                  Rockstar Games Social Club                     2.1.8.4           
-Spotify Music                               SpotifyAB.SpotifyMusic_zpdnekdrzrea0           1.235.663.0       
-Steam                                       Valve.Steam                                    2.10.91.91        
-Apex Legends                                Steam App 1172470                              Unknown           
-Lethal Company                              Steam App 1966720                              Unknown           
-Ultimate Chicken Horse                      Steam App 386940                               Unknown           
-Factorio                                    Steam App 427520                               Unknown           
-Bomber Crew                                 Steam App 537800                               Unknown           
-HELLDIVERSTM 2                              Steam App 553850                               Unknown           
-RollerCoaster Tycoon Classic                Steam App 683900                               Unknown           
-Pummel Party                                Steam App 880940                               Unknown           
-Golf With Your Friends Win 10               Team17DigitalLimited.GolfWithYourFriendsWin10ΓÇª 1.0.185.0         
-Ubisoft Connect                             Ubisoft.Connect                                87.0              151.2.0.1ΓÇª
-Assassin's Creed Valhalla                   Uplay Install 13504                            Unknown           
-VLC media player                            VideoLAN.VLC                                   3.0.20            
-Wireshark 4.0.10 64-bit                     WiresharkFoundation.Wireshark                  4.0.10            4.2.4
-r2modman 3.1.45                             ebkr.r2modman                                  3.1.45            3.1.48
-Obsidian                                    Obsidian.Obsidian                              1.5.3             1.5.12
-Visual Studio Enterprise 2022               Microsoft.VisualStudio.2022.Enterprise         17.4.2            17.9.6
-Escape Academy                              iam8bit.EscapeAcademy_1fvhzehbk749p            1.0.22.0          
-Insomnia                                    Insomnia.Insomnia                              2023.4.0          
-Mail and Calendar                           microsoft.windowscommunicationsapps_8wekyb3d8ΓÇª 16005.14326.2185ΓÇª 
-Slack                                       SlackTechnologies.Slack                        4.37.101          
-Microsoft Start Autos                       www.msn.com-93392240_q77jw2zwjvy92             1.0.0.1           
-Microsoft Start Autos                       www.msn.com-98155494_q77jw2zwjvy92             1.0.0.0           
-Microsoft Visual C++ 2013 Redistributable ΓÇª Microsoft.VCRedist.2013.x64                    12.0.30501.0      12.0.4066ΓÇª
-Realtek USB Audio                           {0A46A65D-89AC-464C-8026-3CD44960BD04}         6.3.9600.2286     
-Microsoft Web Deploy 4.0                    Microsoft.WebDeploy                            10.0.5923         
-Microsoft ODBC Driver 17 for SQL Server     {0E0F96AC-80DE-4400-A40C-429D63293651}         17.10.6.1         
-Remote Desktop                              Microsoft.RemoteDesktopClient                  1.2.5326.0        
-Microsoft Visual C++ 2010  x64 RedistributΓÇª Microsoft.VCRedist.2010.x64                    10.0.40219        
-Windows SDK AddOn                           {1E76DFA7-96F3-4281-8E41-8A226C3E42EE}         10.1.0.0          
-Microsoft GameInput                         {1F2B6AF3-C260-8666-5950-E3FEDBC851D6}         10.1.22621.3036   
-Python 3.11.5 (64-bit)                      Python.Python.3.11                             3.11.5            3.11.9
-Epic Games Launcher                         EpicGames.EpicGamesLauncher                    1.3.0.0           1.3.93.0
-Python 3.10.0 (64-bit)                      Python.Python.3.10                             3.10.0            3.10.11
-Go Programming Language amd64 go1.17.3      GoLang.Go                                      1.17.3            1.22.2
-PowerToys (Preview) x64                     Microsoft.PowerToys                            0.65.0            0.80.1
-Python Launcher                             Python.Launcher                                < 3.12.0          3.12.0
-Alertus Desktop                             {3036A3DA-3177-4EE1-86C5-2EE792E4E8B8}         5.4.38.0          
-Epic Online Services                        {32C68D93-D32F-4B01-8250-61642BFC22F8}         2.0.28.0          
-Turtle Beach                                {3375C58A-C7D5-415B-A45D-48CDDB1D6BC5}         8.3.9.0           
-Microsoft Visual C++ 2012 Redistributable ΓÇª Microsoft.VCRedist.2012.x86                    11.0.61030.0      
-Microsoft SQL Server 2019 LocalDB           {36E492B8-CB83-4DA5-A5D2-D99A8E8228A1}         15.0.4153.1       
-Microsoft Azure PowerShell - April 2018     {3BA7CAA9-97BA-4528-B7E1-B640910BB149}         5.7.0.18831       
-Microsoft Visual C++ 2015-2022 RedistributΓÇª Microsoft.VCRedist.2015+.x86                   14.36.32532.0     14.38.331ΓÇª
-Windows Software Development Kit - WindowsΓÇª Microsoft.WindowsSDK.10.0.19041                10.1.19041.685    
-Logitech G HUB                              Logitech.GHUB                                  2024.2.534136     
-Microsoft Windows Desktop Runtime - 6.0.29ΓÇª Microsoft.DotNet.DesktopRuntime.6              6.0.29            
-IIS 10.0 Express                            {56070933-B0D1-493F-8C12-4F7E83CA3071}         10.0.06614        
-Microsoft System CLR Types for SQL Server ΓÇª Microsoft.CLRTypesSQLServer.2019               15.0.2000.5       
-Microsoft Visual C++ 2008 Redistributable ΓÇª Microsoft.VCRedist.2008.x64                    9.0.30729.6161    
-Windows Software Development Kit - WindowsΓÇª {5fe95b9d-9219-4d8b-a031-71323ae48a81}         10.1.17763.132    
-Neovim                                      Neovim.Neovim                                  0.9.5             
-Paradox Launcher v2                         ParadoxInteractive.ParadoxLauncher             2.1.0             2.4.0
-Windows PC Health Check                     Microsoft.WindowsPCHealthCheck                 3.6.2204.08001    3.7.2204.ΓÇª
-Microsoft Visual Studio Installer           {6F320B93-EE3C-4826-85E0-ADF79F8D4C61}         3.7.2175.60206    
-EA app                                      ElectronicArts.EADesktop                       13.173.0.5686     
-VMware Workstation                          VMware.WorkstationPro                          17.5.0            
-Microsoft Visual Studio Code (User)         Microsoft.VisualStudioCode                     1.88.0            1.88.1
-Windows PC Health Check                     Microsoft.WindowsPCHealthCheck                 3.7.2204.15001    
-Logi Options+                               Logitech.OptionsPlus                           1.32.366807       1.68.5421ΓÇª
-calibre 64bit                               calibre.calibre                                6.14.1            7.8.0
-Realtek Ethernet Controller Driver          {8833FFB6-5B0C-4764-81AA-06DFEED9A476}         10.46.1231.2020   
-Microsoft Visual C++ 2015-2022 RedistributΓÇª Microsoft.VCRedist.2015+.x64                   14.36.32532.0     14.38.331ΓÇª
-Microsoft Azure Authoring Tools - v2.9.7    {90462BD2-DF5B-449C-A401-FCC1DC264E4E}         2.9.8999.45       
-Microsoft SQL Server 2016 LocalDB           {9097BF1A-13A0-4A4A-A1F8-473E2A669863}         13.1.4001.0       
-Microsoft Visual C++ 2008 Redistributable ΓÇª Microsoft.VCRedist.2008.x86                    9.0.30729.6161    
-Lua                                         DEVCOM.Lua                                     5.4.6             
-Microsoft Visual C++ 2013 Redistributable ΓÇª Microsoft.VCRedist.2013.x86                    12.0.40664.0      
-Microsoft Teams Meeting Add-in for MicrosoΓÇª {A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}         1.23.11703        
-Wally version 3.0.1                         {AD29FB2C-766F-4272-9BB1-BEAC40CA627E}_is1     3.0.1             
-PowerShell 7-x64                            Microsoft.PowerShell                           7.4.1.0           7.4.2.0
-Microsoft .NET SDK 7.0.100 (x64) from VisuΓÇª {B29CDDEE-A6FA-49B0-BDCC-91F3F14D9586}         7.1.22.52112      
-NVIDIA Graphics Driver 546.33               {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_DisplaΓÇª 546.33            
-NVIDIA GeForce Experience 3.27.0.120        Nvidia.GeForceExperience                       3.27.0.120        
-NVIDIA PhysX System Software 9.21.0713      Nvidia.PhysX                                   9.21.0713         
-NVIDIA FrameView SDK 1.3.8513.32290073      {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_FrameVΓÇª 1.3.8513.32290073 
-NVIDIA HD Audio Driver 1.3.40.14            {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HDAudiΓÇª 1.3.40.14         
-Microsoft Azure CLI                         Microsoft.AzureCLI                             2.41.0            2.59.0
-Update for Windows 10 for x64-based SystemΓÇª {C22F49B1-0F67-47DC-A490-E8B4B6558EA9}         8.91.0.0          
-Microsoft Azure Libraries for .NET ΓÇô v2.9   {C5C91AA6-3E83-430E-8B7A-6B790083F28D}         3.0.0127.060      
-Microsoft Update Health Tools               {C6FD611E-7EFE-488C-A0E0-974C09EF6473}         5.72.0.0          
-Update for  (KB2504637)                     {CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}.KB2504ΓÇª 1                 
-Node.js                                     {D6312B04-7F9E-4651-B8E2-3F35DB2FCFB3}         18.16.1           
-Turtle Beach WinUSB Driver                  {D7593549-B589-40AB-95F0-5ED5AA14D2BC}         1.0.1             
-Twitch Studio                               Twitch.TwitchStudio                            8.0.0             
-Microsoft Visual Studio Setup WMI Provider  {E281F6E2-136B-4AF0-895B-253279711697}         3.7.2182.35401    
-Microsoft Visual C++ 2010  x86 RedistributΓÇª Microsoft.VCRedist.2010.x86                    10.0.40219        
-Windows Subsystem for Linux Update          {F8474A47-8B5D-4466-ACE3-78EAB3BF21A8}         5.10.102.1        
-Microsoft .NET SDK 7.0.118 (x64)            Microsoft.DotNet.SDK.7                         7.0.118           7.0.408
-Microsoft Visual C++ 2012 Redistributable ΓÇª Microsoft.VCRedist.2012.x64                    11.0.61030.0      
-Microsoft Visual C++ 2013 Redistributable ΓÇª Microsoft.VCRedist.2013.x86                    12.0.30501.0      12.0.4066ΓÇª
+Visual Studio Enterprise 2019              Microsoft.VisualStudio.2019.Enterprise      16.11.35            
+7-Zip 23.01 (x64)                          7zip.7zip                                   23.01               
+Visual Studio Enterprise 2022              Microsoft.VisualStudio.2022.Enterprise      17.9.6              
+RipGrep MSVC                               BurntSushi.ripgrep.MSVC                     14.1.0              
+Ubuntu 22.04.3 LTS                         Canonical.Ubuntu.2204                       2204.3.63.0         
+Microsoft Clipchamp                        Clipchamp.Clipchamp_yxz26nhyzhsrt           3.1.10020.0         
+Docker Desktop                             Docker.DockerDesktop                        4.29.0              
+Git                                        Git.Git                                     2.45.0              
+LLVM                                       LLVM.LLVM                                   18.1.3              18.1.4
+Microsoft Teams                            Microsoft.Teams                             24123.500.2852.3003 
+Microsoft Azure Compute Emulator - v2.9.7  Microsoft Azure Compute Emulator - v2.9.7   2.9.8999.43         
+Microsoft Azure Storage Emulator - v5.10   Microsoft.Azure.StorageEmulator             5.10.19227.2113     
+Microsoft Edge                             Microsoft.Edge                              124.0.2478.67       
+Microsoft Edge Update                      Microsoft Edge Update                       1.3.185.29          
+Microsoft Edge WebView2 Runtime            Microsoft.EdgeWebView2Runtime               124.0.2478.67       
+Microsoft Visual Studio 2010 Tools for OfΓÇª Microsoft.VSTOR                             10.0.60910          10.0.60917
+Cortana                                    Microsoft.549981C3F5F10_8wekyb3d8bbwe       4.2308.1005.0       
+Azure VPN Client                           Microsoft.AzureVpn_8wekyb3d8bbwe            3.2.0.0             
+MSN Weather                                Microsoft.BingWeather_8wekyb3d8bbwe         4.53.60911.0        
+Company Portal                             Microsoft.CompanyPortal_8wekyb3d8bbwe       11.2.448.0          
+App Installer                              Microsoft.AppInstaller                      1.22.10861.0        1.22.11132.0
+EpmShellExtension                          Microsoft.EpmShellExtension_8wekyb3d8bbwe   1.0.0.0             
+Xbox                                       Microsoft.GamingApp_8wekyb3d8bbwe           2404.1001.25.0      
+Get Help                                   Microsoft.GetHelp_8wekyb3d8bbwe             10.2403.20861.0     
+Microsoft Tips                             Microsoft.Getstarted_8wekyb3d8bbwe          10.2312.1.0         
+HEIF Image Extensions                      Microsoft.HEIFImageExtension_8wekyb3d8bbwe  1.1.861.0           
+HEVC Video Extensions from Device ManufacΓÇª Microsoft.HEVCVideoExtension_8wekyb3d8bbwe  2.0.61931.0         
+Microsoft Edge                             Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbΓÇª 123.0.2420.81       
+Microsoft 365 (Office)                     Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe  18.2311.1071.0      
+Microsoft Sticky Notes                     Microsoft.MicrosoftStickyNotes_8wekyb3d8bbΓÇª 4.0.6102.0          
+Microsoft .Net Native Framework Package 2ΓÇª Microsoft.NET.Native.Framework.2.2_8wekyb3ΓÇª 2.2.29512.0         
+Microsoft .Net Native Runtime Package 2.2  Microsoft.NET.Native.Runtime.2.2_8wekyb3d8ΓÇª 2.2.28604.0         
+OneDrive                                   Microsoft.OneDriveSync_8wekyb3d8bbwe        24087.429.1.0       
+Microsoft Office Outlook Desktop IntegratΓÇª Microsoft.OutlookDesktopIntegrationServiceΓÇª 16009.12728.10000.0 
+Outlook for Windows                        Microsoft.OutlookForWindows_8wekyb3d8bbwe   1.2024.319.300      
+Paint                                      Microsoft.Paint_8wekyb3d8bbwe               11.2404.42.0        
+Microsoft People                           Microsoft.People_8wekyb3d8bbwe              10.2202.100.0       
+Power Automate                             Microsoft.PowerAutomateDesktop_8wekyb3d8bbΓÇª 1.0.1148.0          
+Raw Image Extension                        Microsoft.RawImageExtension_8wekyb3d8bbwe   2.3.611.0           
+Snipping Tool                              Microsoft.ScreenSketch_8wekyb3d8bbwe        11.2403.8.0         
+Windows Security                           Microsoft.SecHealthUI_8wekyb3d8bbwe         1000.25992.9000.0   
+Microsoft Engagement Framework             Microsoft.Services.Store.Engagement_8wekybΓÇª 10.0.23012.0        
+Store Experience Host                      Microsoft.StorePurchaseApp_8wekyb3d8bbwe    22403.1401.0.0      
+Microsoft To Do                            Microsoft.Todos_8wekyb3d8bbwe               2.120.7961.0        
+Microsoft.UI.Xaml.2.1                      Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe         2.11906.6001.0      
+Microsoft.UI.Xaml.2.6                      Microsoft.UI.Xaml.2.6_8wekyb3d8bbwe         2.62112.3002.0      
+Microsoft.UI.Xaml.2.7                      Microsoft.UI.Xaml.2.7                       7.2208.15002.0      
+Microsoft.UI.Xaml.2.8                      Microsoft.UI.Xaml.2.8                       8.2310.30001.0      
+Microsoft Visual C++ 2015 UWP Desktop RunΓÇª Microsoft.VCLibs.Desktop.14                 14.0.33519.0        
+Microsoft Visual C++ 2015 UWP Runtime PacΓÇª Microsoft.VCLibs.140.00_8wekyb3d8bbwe       14.0.33519.0        
+VP9 Video Extensions                       Microsoft.VP9VideoExtensions_8wekyb3d8bbwe  1.1.451.0           
+Web Media Extensions                       Microsoft.WebMediaExtensions_8wekyb3d8bbwe  1.1.663.0           
+Webp Image Extensions                      Microsoft.WebpImageExtension_8wekyb3d8bbwe  1.0.62681.0         
+Microsoft Copilot                          Microsoft.Windows.Ai.Copilot.Provider_8wekΓÇª 1.0.3.0             
+Dev Home                                   Microsoft.DevHome                           0.1300.477.0        
+Microsoft Photos                           Microsoft.Windows.Photos_8wekyb3d8bbwe      2024.11040.29002.0  
+Windows Clock                              Microsoft.WindowsAlarms_8wekyb3d8bbwe       1.0.191.0           
+WindowsAppRuntime.1.2                      Microsoft.WindowsAppRuntime.1.2_8wekyb3d8bΓÇª 2000.802.31.0       
+WindowsAppRuntime.1.3                      Microsoft.WindowsAppRuntime.1.3_8wekyb3d8bΓÇª 3000.934.1904.0     
+WindowsAppRuntime.1.4                      Microsoft.WindowsAppRuntime.1.4_8wekyb3d8bΓÇª 4000.1136.2333.0    
+WindowsAppRuntime.1.5                      Microsoft.WindowsAppRuntime.1.5_8wekyb3d8bΓÇª 5001.95.533.0       
+Windows Calculator                         Microsoft.WindowsCalculator_8wekyb3d8bbwe   11.2403.6.0         
+Windows Camera                             Microsoft.WindowsCamera_8wekyb3d8bbwe       2024.2404.4.0       
+Feedback Hub                               Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe  1.2404.21081.0      
+Windows Maps                               Microsoft.WindowsMaps_8wekyb3d8bbwe         1.0.62.0            
+Windows Notepad                            Microsoft.WindowsNotepad_8wekyb3d8bbwe      11.2404.7.0         
+Microsoft Store                            Microsoft.WindowsStore_8wekyb3d8bbwe        22404.1401.0.0      
+Windows Terminal                           Microsoft.WindowsTerminal                   1.19.11213.0        
+Windows Package Manager Source (platform)  Microsoft.Winget.Platform.Source_8wekyb3d8ΓÇª 2024.105.1947.899   
+Windows Package Manager Source (winget)    Microsoft.Winget.Source_8wekyb3d8bbwe       2024.502.1849.738   
+Xbox TCUI                                  Microsoft.Xbox.TCUI_8wekyb3d8bbwe           1.24.10001.0        
+Xbox Game Bar Plugin                       Microsoft.XboxGameOverlay_8wekyb3d8bbwe     1.54.4001.0         
+Xbox Identity Provider                     Microsoft.XboxIdentityProvider_8wekyb3d8bbΓÇª 12.95.3001.0        
+Xbox Game Speech Window                    Microsoft.XboxSpeechToTextOverlay_8wekyb3dΓÇª 1.21.13002.0        
+Phone Link                                 Microsoft.YourPhone_8wekyb3d8bbwe           1.24042.85.0        
+Windows Media Player                       Microsoft.ZuneMusic_8wekyb3d8bbwe           11.2403.5.0         
+Movies & TV                                Microsoft.ZuneVideo_8wekyb3d8bbwe           10.23121.10121.0    
+Quick Assist                               MicrosoftCorporationII.QuickAssist_8wekyb3ΓÇª 2.0.30.0            
+Windows Subsystem for Linux                MicrosoftCorporationII.WindowsSubsystemForΓÇª 2.1.5.0             
+Microsoft Teams                            Microsoft.Teams.Free                        24060.3102.2733.59ΓÇª 
+Windows Web Experience Pack                MicrosoftWindows.Client.WebExperience_cw5nΓÇª 424.1301.450.0      
+Cross Device Experience Host               MicrosoftWindows.CrossDevice_cw5n1h2txyewy  1.24041.34.0        
+Microsoft 365 Apps for enterprise - en-us  Microsoft.Office                            16.0.17630.20000    
+Oh My Posh version 19.19.0                 JanDeDobbeleer.OhMyPosh                     19.19.0             19.25.0
+Microsoft OneDrive                         OneDriveSetup.exe                           24.087.0429.0001    
+GlobalProtect                              PaloAltoNetworks.GlobalProtect_rn9aeerfb38ΓÇª 6.0.5005.0          
+Postman x86_64 10.24.16                    Postman.Postman                             10.24.16            
+Spotify Music                              SpotifyAB.SpotifyMusic_zpdnekdrzrea0        1.235.663.0         
+Wireshark 4.2.4 x64                        WiresharkFoundation.Wireshark               4.2.4               
+Obsidian                                   Obsidian.Obsidian                           1.5.12              
+Insomnia                                   Insomnia.Insomnia                           8.4.5               9.1.0
+Mail and Calendar                          microsoft.windowscommunicationsapps_8wekybΓÇª 16005.14326.21900.0 
+fd                                         sharkdp.fd                                  9.0.0               
+Microsoft Intune Management Extension      {031A7879-B22B-45AA-9B1E-0C53AB628DCB}      1.78.103.0          
+Microsoft Visual C++ 2013 RedistributableΓÇª Microsoft.VCRedist.2013.x64                 12.0.30501.0        12.0.40664.0
+Global Secure Access Client                {0914324a-7316-49cf-bca1-10c317823086}      1.7.906             
+Eclipse Temurin JDK with Hotspot 8u302-b0ΓÇª EclipseAdoptium.Temurin.8.JDK               8.0.302.8           8.0.402.6
+Microsoft ODBC Driver 17 for SQL Server    {0E0F96AC-80DE-4400-A40C-429D63293651}      17.10.6.1           
+vs_CoreEditorFonts                         {1851460E-0E63-4117-B5BA-25A2F045801B}      17.7.40001          
+Python 3.11.9 (64-bit)                     Python.Python.3.11                          3.11.9              
+Microsoft Visual C++ 2015-2022 RedistribuΓÇª Microsoft.VCRedist.2015+.x64                14.38.33130.0       14.38.33135ΓÇª
+Microsoft Cloud Managed Desktop Extension  {22341AB3-C98C-4EC7-A0FB-FE9F0C32067D}      1.2.02668.212       
+Remote Desktop Multimedia Redirection SerΓÇª {23F8C45A-1108-4815-80FF-35C2D58B42BA}      1.0.2304.12009      
+Azure Cosmos DB Emulator                   Microsoft.Azure.CosmosEmulator              2.14.16             
+Microsoft Visual C++ 2015-2022 RedistribuΓÇª Microsoft.VCRedist.2015+.x86                14.38.33130.0       14.38.33135ΓÇª
+Alertus Desktop                            {3036A3DA-3177-4EE1-86C5-2EE792E4E8B8}      5.4.38.0            
+Windows SDK AddOn                          {342873C0-1C08-4A99-82B6-50D1D2043E5A}      10.1.0.0            
+Microsoft Azure CLI (32-bit)               Microsoft.AzureCLI                          2.53.0              2.60.0
+Microsoft SQL Server 2019 LocalDB          {36E492B8-CB83-4DA5-A5D2-D99A8E8228A1}      15.0.4153.1         
+Go Programming Language amd64 go1.22.2     GoLang.Go                                   1.22.2              
+Microsoft .NET SDK 8.0.204 (x64) from VisΓÇª {3A83820E-867F-45B3-9FA4-3D513A9079EB}      8.2.424.17037       
+Microsoft Azure PowerShell - April 2018    {3BA7CAA9-97BA-4528-B7E1-B640910BB149}      5.7.0.18831         
+Microsoft Azure Libraries for .NET ΓÇô v2.9  {3C188EC3-3DFE-48B1-9C45-D1AF419D534F}      3.0.2310.23         
+Remote Desktop Services Infrastructure AgΓÇª Microsoft.WindowsVirtualDesktopAgent        1.0.8431.2300       
+Azure Information Protection Updater       {43a5b317-5899-4528-88a1-9b4a613cd797}      1.18.205.0          
+Windows Software Development Kit - WindowΓÇª Microsoft.WindowsSDK.10.0.19041             10.1.19041.685      
+Remote Desktop Agent Boot Loader           Microsoft.WindowsVirtualDesktopBootloader   1.0.4.0             
+Microsoft Windows Desktop Runtime - 6.0.2ΓÇª Microsoft.DotNet.DesktopRuntime.6           6.0.29              
+PowerShell 7.4.2.0-x64                     Microsoft.PowerShell                        7.4.2.0             
+Microsoft System CLR Types for SQL ServerΓÇª Microsoft.CLRTypesSQLServer.2019            15.0.2000.5         
+Remote Desktop Services SxS Network Stack  {5D12ED2C-9177-4D83-9353-E84831734D0E}      1.0.2310.23500      
+Neovim                                     Neovim.Neovim                               0.9.5               
+Microsoft Visual Studio Installer          {6F320B93-EE3C-4826-85E0-ADF79F8D4C61}      3.9.2164.57262      
+Windows Software Development Kit - WindowΓÇª {71684ad3-afc2-4a65-9d45-92ef58510f18}      10.1.22621.3233     
+Microsoft System CLR Types for SQL ServerΓÇª {725CC962-98BD-42C7-87D8-51C680FB1779}      15.0.1200.24        
+Teams Machine-Wide Installer               {731F6BAA-A986-45A4-8936-7C3AAAAA760B}      1.6.0.29964         
+Microsoft Visual Studio Code (User)        Microsoft.VisualStudioCode                  1.88.1              
+Microsoft .NET Core Runtime - 3.1.32 (x64) Microsoft.DotNet.Runtime.3_1                3.1.32              
+Microsoft Web Deploy 4.0                   Microsoft.WebDeploy                         10.0.8215           
+Python Launcher                            Python.Launcher                             < 3.12.0            3.12.0
+Microsoft Azure Authoring Tools - v2.9.7   {90462BD2-DF5B-449C-A401-FCC1DC264E4E}      2.9.8999.45         
+Microsoft SQL Server 2016 LocalDB          {9097BF1A-13A0-4A4A-A1F8-473E2A669863}      13.1.4001.0         
+Lua                                        DEVCOM.Lua                                  5.4.6               
+IIS 10.0 Express                           {A43F6F96-4CED-4152-8086-AF954755E324}      10.0.08608          
+Node.js                                    {A56DECD3-5312-4F1D-B185-9A47DE16BCEC}      20.11.0             
+Remote Help                                {A7371520-4706-4711-9BF1-2A863D57BBB0}      5.1.1214.0          
+Microsoft Teams Meeting Add-in for MicrosΓÇª {A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}      1.24.11604          
+Remote Desktop Services Infrastructure GeΓÇª {A9BABDD3-A75C-40C3-B676-A4F67F266D99}      46.5.1              
+Microsoft Defender for Endpoint plug-in fΓÇª {AC9174BE-5BD7-4D22-8673-1963C9426F93}      0.23.1102.4         
+GitHub CLI                                 GitHub.cli                                  2.20.2              2.49.0
+Remote Desktop Services Infrastructure GeΓÇª {B02E82A3-8449-4CBA-889C-C27767DA974A}      45.5.2              
+Microsoft Update Health Tools              {C6FD611E-7EFE-488C-A0E0-974C09EF6473}      5.72.0.0            
+Update for  (KB2504637)                    {CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}.KB2ΓÇª 1                   
+Remote Desktop Services Infrastructure AgΓÇª Microsoft.WindowsVirtualDesktopAgent        1.0.8297.800        1.0.8431.23ΓÇª
+Microsoft Build of OpenJDK with Hotspot 1ΓÇª Microsoft.OpenJDK.11                        11.0.16.101         11.0.23.9
+Remote Desktop Services SxS Network Stack  {F3262C8C-2217-44CC-B751-A41A3B11820E}      1.0.2310.23300      
+Windows Subsystem for Linux Update         {F8474A47-8B5D-4466-ACE3-78EAB3BF21A8}      5.10.102.1          
+Remote Desktop WebRTC Redirector Service   {FD4B51B4-F818-432D-9A4F-175600603F56}      1.43.2306.30001     
+Unity Hub 2.4.4                            Unity.UnityHub                              2.4.4               3.8.0
+Microsoft .NET SDK 6.0.129 (x64)           Microsoft.DotNet.SDK.6                      6.0.129             6.0.421
+Microsoft Visual C++ 2013 RedistributableΓÇª Microsoft.VCRedist.2013.x86                 12.0.30501.0        12.0.40664.0
