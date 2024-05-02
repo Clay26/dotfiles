@@ -27,3 +27,5 @@ vim.keymap.set("", "<Right>", "<nop>")
 vim.keymap.set("", "<Up>", "<nop>")
 vim.keymap.set("", "<Down>", "<nop>")
 
+-- Clear search highlight
+vim.keymap.set('n', '<leader>cs', ':noh<CR>', { silent = true })
