@@ -167,7 +167,10 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
-				}
+				},
+        {
+          "PackageIdentifier" : "JesseDuffield.lazygit"
+        }
 			],
 			"SourceDetails" : 
 			{
