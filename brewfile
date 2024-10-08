@@ -14,6 +14,7 @@ colima
 asdf
 ripgrep
 fd
+lazygit
 
 # Casks
 calibre
@@ -23,3 +24,4 @@ spotify
 vlc
 wireshark
 iTerm2
+vagrant
