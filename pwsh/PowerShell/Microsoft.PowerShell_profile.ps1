@@ -98,7 +98,7 @@ function Update-Path {
     } else {
         Write-Output "$NewPath is already in the PATH variable. Use 'Get-Path' to verify current PATH."
     }
-  }
+}
 
 function Ensure-ClangInPath {
     # Check if 'clang.exe' is in the PATH
