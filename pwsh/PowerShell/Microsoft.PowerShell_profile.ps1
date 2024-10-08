@@ -79,6 +79,27 @@ function Get-Path {
     return $path
 }
 
+function Update-Path {
+    param (
+      [string]$pathToAdd
+    )
+
+    $path = Get-Path
+
+    if ($path -notlike "*$pathToAdd*") {
+        # Backup Path
+        $backupFilePath = "$env:USERPROFILE\path.bak"
+        $path | Out-File -FilePath $backupPathFile
+
+        $newPath = "$path;$pathToAdd"
+        [Environment]::SetEnvironmentVariable("Path", $newPath, [EnvironmentVariableTarget]::User)
+        Write-Host "Added $pathToAdd to PATH. Please restart PowerShell to apply changes."
+        Write-Host "See $backupPathFile if changes need to be reverted."
+    } else {
+        Write-Output "$NewPath is already in the PATH variable. Use 'Get-Path' to verify current PATH."
+    }
+  }
+
 function Ensure-ClangInPath {
     # Check if 'clang.exe' is in the PATH
     $clangInPath = $false
